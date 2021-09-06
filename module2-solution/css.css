@@ -30,6 +30,8 @@ p {
 	text-align: justify;
 	background-color: #B1ACAC;
 	position: relative;
+	margin-right: 15px;
+	margin-left: 15px;
 }
 
 span {
